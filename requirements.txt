@@ -1,0 +1,9 @@
+Bio==1.5.9
+biopython==1.81
+dask==2023.6.0
+debugpy==1.6.7
+h5py==3.8.0
+pandas==2.0.2
+PyYAML==6.0
+PyYAML==6.0.1
+tqdm==4.65.0
