@@ -7,3 +7,4 @@ pandas==2.0.2
 PyYAML==6.0
 PyYAML==6.0.1
 tqdm==4.65.0
+torch==2.0.1+cu117
