@@ -18,10 +18,10 @@ import signal
 
 import pickle
 
-import debugpy as debug
-debug.listen(("0.0.0.0", 5678))
-print("waiting attach!")
-debug.wait_for_client()
+# import debugpy as debug
+# debug.listen(("0.0.0.0", 5678))
+# print("waiting attach!")
+# debug.wait_for_client()
 
 def update(conn, task):
     sql = ''' UPDATE compound_pert
